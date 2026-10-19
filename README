@@ -1,0 +1,16 @@
+# About Me — HTML Practice Page
+
+This beginner-friendly page demonstrates:
+- Valid HTML document structure (`doctype`, `html`, `head`, `title`, and `body`)
+- Semantic elements including `header`, `nav`, `main`, `section`, `article`, `figure`, `figcaption`, and `footer`
+- A logical heading hierarchy (`h1`, `h2`, `h3`)
+- An image with descriptive alternative text
+- An unordered list
+- Navigation links to page sections
+
+## Submit on GitHub
+1. Create a repository on GitHub.
+2. Upload `index.html` and `README.md` to the repository root.
+3. Open the repository and copy its URL for your assignment submission.
+
+Replace the sample biography and interests with details you want to share before submitting.
